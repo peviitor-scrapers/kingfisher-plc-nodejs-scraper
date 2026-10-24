@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. MIHAI EMINESCU, NR.3, ET.1 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-23T11:23:45.259Z_
+_Generated: 2026-10-24T10:42:49.342Z_
 
 ### Cloud Engineer
 
