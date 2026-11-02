@@ -10,22 +10,15 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. MIHAI EMINESCU, NR.3, ET.1 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (7)
+## Current Job Listings (5)
 
-_Generated: 2026-11-01T13:03:02.106Z_
+_Generated: 2026-11-02T15:26:16.208Z_
 
 ### Cloud Engineer
 
 - **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/cloud-engineer/2026-148288](https://careers.kingfisher.com/job/cluj/digital-it/cloud-engineer/2026-148288)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### Engineering Squad Lead (Mobile)
-
-- **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/engineering-squad-lead-mobile/2026-153011](https://careers.kingfisher.com/job/cluj/digital-it/engineering-squad-lead-mobile/2026-153011)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
@@ -40,13 +33,6 @@ _Generated: 2026-11-01T13:03:02.106Z_
 ### Principal Data Engineer
 
 - **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/principal-data-engineer/2026-152049](https://careers.kingfisher.com/job/cluj/digital-it/principal-data-engineer/2026-152049)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### Software Engineer (Java)
-
-- **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/software-engineer-java/2026-148586](https://careers.kingfisher.com/job/cluj/digital-it/software-engineer-java/2026-148586)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
