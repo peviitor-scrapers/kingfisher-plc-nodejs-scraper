@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. TEODOR MIHALI, NR.64, CLĂDIREA UNITED BUSINESS CENTER RIVIERA, ET.6 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
 ## Current Job Listings (5)
 
-_Generated: 2026-11-18T15:28:27.465Z_
+_Generated: 2026-11-19T15:35:17.909Z_
 
 ### Cloud Engineer
 
