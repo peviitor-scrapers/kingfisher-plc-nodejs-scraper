@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. TEODOR MIHALI, NR.64, CLĂDIREA UNITED BUSINESS CENTER RIVIERA, ET.6 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (5)
+## Current Job Listings (6)
 
-_Generated: 2026-11-19T15:35:17.909Z_
+_Generated: 2026-11-20T15:14:17.862Z_
+
+### Agile Coach
+
+- **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/agile-coach/2026-165152](https://careers.kingfisher.com/job/cluj/digital-it/agile-coach/2026-165152)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
 
 ### Cloud Engineer
 
