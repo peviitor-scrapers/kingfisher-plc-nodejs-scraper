@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. TEODOR MIHALI, NR.64, CLĂDIREA UNITED BUSINESS CENTER RIVIERA, ET.6 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (6)
+## Current Job Listings (7)
 
-_Generated: 2026-11-22T14:25:25.643Z_
+_Generated: 2026-11-23T17:51:28.110Z_
+
+### Mobile Quality Engineer (Junior)
+
+- **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/mobile-quality-engineer-junior/2026-166533](https://careers.kingfisher.com/job/cluj/digital-it/mobile-quality-engineer-junior/2026-166533)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
 
 ### Agile Coach
 
