@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. TEODOR MIHALI, NR.64, CLĂDIREA UNITED BUSINESS CENTER RIVIERA, ET.6 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (7)
+## Current Job Listings (8)
 
-_Generated: 2026-11-23T17:51:28.110Z_
+_Generated: 2026-11-24T17:24:29.143Z_
+
+### Principal Software Engineer
+
+- **URL:** [https://careers.kingfisher.com/job/cluj/digital-it/principal-software-engineer/2026-166961](https://careers.kingfisher.com/job/cluj/digital-it/principal-software-engineer/2026-166961)
+- **Work Mode:** on-site
+- **Location:** România
+- **Status:** scraped
 
 ### Mobile Quality Engineer (Junior)
 
