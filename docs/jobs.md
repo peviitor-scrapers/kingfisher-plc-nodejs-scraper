@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. TEODOR MIHALI, NR.64, CLĂDIREA UNITED BUSINESS CENTER RIVIERA, ET.6 |
 | Website | [https://www.kingfisher.com](https://www.kingfisher.com) |
 | Careers | [https://careers.kingfisher.com/job-search](https://careers.kingfisher.com/job-search) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-11-24T17:24:29.143Z_
+_Generated: 2026-11-25T17:02:02.299Z_
 
 ### Principal Software Engineer
 
